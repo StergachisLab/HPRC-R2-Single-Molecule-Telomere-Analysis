@@ -12,7 +12,7 @@
 4. **Department of Biology**, Stanford University, Stanford, CA, USA
 5. **UC Santa Cruz Genomics Institute**, University of California, Santa Cruz, Santa Cruz, CA, USA
 6. **Department of Genome Sciences**, University of Washington, Seattle, WA, USA
-7. **Chan Zuckerberg Biohub** – San Francisco, San Francisco, CA, USA
+7. **Chan Zuckerberg Biohub – San Francisco**, San Francisco, CA, USA
 8. **Brotman Baty Institute for Precision Medicine**, Seattle, WA, USA
 
 ---
