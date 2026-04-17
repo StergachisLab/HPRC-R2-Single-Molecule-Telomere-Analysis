@@ -1,7 +1,7 @@
 # Single-molecule variation in telomeric sequence and structure across humans
 
 ### Authors
-Danilo Dubocanin**¹**, Mitchell R. Vollger**²**, Shane J Neph**³**, Maria Sara Del Rio Pisula**¹ ⁴**, Julian K Lucas**⁵**, Adriana E Sedeño-Cortés**³**, Ben J Mallory**³ ⁶**, Taylor D Real**³ ⁶**, Human Pangenome Reference Consortium, Nicolas Altemose**¹ ⁷**, Andrew B. Stergachis**³ ⁶ ⁸**
+Danilo Dubocanin**¹**, Mitchell R. Vollger**²**, Shane J Neph**³**, Maria Sara Del Rio Pisula**¹ ⁴**, Julian K Lucas**⁵**, Adriana E Sedeño-Cortés**³**, Ben J Mallory**³ ⁶**, Taylor D Real**³ ⁶**, Human Pangenome Reference Consortium, Nicolas Altemose**¹ ⁷**<sup>§</sup>, Andrew B. Stergachis**³ ⁶ ⁸**<sup>§</sup>
 
 ---
 
