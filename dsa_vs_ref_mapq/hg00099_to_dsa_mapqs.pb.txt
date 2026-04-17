@@ -1,0 +1,10 @@
+MAPQ>=20: 9110 
+Total primary: 14087
+MAPQ>=30: 8278 
+Total primary: 14087
+MAPQ>=40: 7673 
+Total primary: 14087
+MAPQ>=50: 6983 
+Total primary: 14087
+MAPQ>=60: 6311 
+Total primary: 14087
