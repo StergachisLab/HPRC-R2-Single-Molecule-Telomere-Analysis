@@ -23,11 +23,8 @@ Danilo Dubocanin**¹**, Mitchell R. Vollger**²**, Shane J Neph**³**, Maria Sar
 ---
 
 ### Data Availability
-> Processed data files for analysis are available here:
-https://s3.kopah.uw.edu/dubocd/index.html
-> HPRC assemblies and standard ONT (R10) and PacBio (HiFi) reads are available here:
-https://data.humanpangenome.org/raw-sequencing-data
-> Fiber-seq for HPRC samples is available here:
-https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=submissions/5ECA1D3E-1C37-44B7-BA20-576417F786F0--UCSC_HPRC_ONT_YEAR1_FIBERSEQ/
-> Fiber-seq for CHM13 and HG002 is from GEO accessions GSM7074431 and GSM7074433, respectively.
 
+* **Processed data files for analysis:** Available via our [interactive web directory](https://s3.kopah.uw.edu/dubocd/index.html).
+* **HPRC assemblies and standard reads:** ONT (R10) and PacBio (HiFi) reads are available at the [Human Pangenome raw sequencing data repository](https://data.humanpangenome.org/raw-sequencing-data).
+* **Fiber-seq for HPRC samples:** Available via the [Human Pangenomics S3 directory](https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=submissions/5ECA1D3E-1C37-44B7-BA20-576417F786F0--UCSC_HPRC_ONT_YEAR1_FIBERSEQ/).
+* **Fiber-seq for CHM13 and HG002:** Available from GEO accessions [GSM7074431](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM7074431) and [GSM7074433](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM7074433), respectively.
