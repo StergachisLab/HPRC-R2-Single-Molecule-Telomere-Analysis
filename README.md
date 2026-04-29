@@ -51,3 +51,7 @@ other tools used in this analysis:
 * **seqtk** available at https://github.com/lh3/seqtk. We used seqtk to call telomere-subtelomere junctions.
 * **fibertools** available at https://github.com/fiberseq/fibertools-rs. A CLI tool for creating and interacting with Fiber-seq BAM files. We use various fibertools outputs to extract sequence and chromatin features from single molecules.
 
+### Running the code 
+
+To run all analyses in this paper, you can download all processed files from our [interactive web directory](https://s3.kopah.uw.edu/dubocd/index.html). Then, you can download the jupyter notebook corresponding to your analysis of interest and replace hard-coded file names with the location of the downloaded file on your system.
+Alternatively, you can also download bam files from the [Human Pangenome raw sequencing data repository](https://data.humanpangenome.org/raw-sequencing-data), and process them as described in our methods section.
