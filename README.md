@@ -35,7 +35,7 @@ Danilo Dubocanin**¹**, Mitchell R. Vollger**²**, Shane J Neph**³**, Maria Sar
 
 This analysis is performed using relatively standard bioinformatics and data science packages.
 
-* python (>=3.11) dependencies:
+python (>=3.11) dependencies:
 * numpy           1.24.4 
 * pandas          1.5.3 
 * tqdm            4.64.1 
