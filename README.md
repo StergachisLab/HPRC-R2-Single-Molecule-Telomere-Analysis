@@ -28,3 +28,26 @@ Danilo Dubocanin**¹**, Mitchell R. Vollger**²**, Shane J Neph**³**, Maria Sar
 * **HPRC assemblies and standard reads:** ONT (R10) and PacBio (HiFi) reads are available at the [Human Pangenome raw sequencing data repository](https://data.humanpangenome.org/raw-sequencing-data).
 * **Fiber-seq for HPRC samples:** Available via the [Human Pangenomics S3 directory](https://s3-us-west-2.amazonaws.com/human-pangenomics/index.html?prefix=submissions/5ECA1D3E-1C37-44B7-BA20-576417F786F0--UCSC_HPRC_ONT_YEAR1_FIBERSEQ/).
 * **Fiber-seq for CHM13 and HG002:** Available from GEO accessions [GSM7074431](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM7074431) and [GSM7074433](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM7074433), respectively.
+
+---
+
+### Dependencies
+
+This analysis is performed using relatively standard bioinformatics and data science packages.
+
+python (>=3.11) dependencies:
+numpy           1.24.4
+pandas          1.5.3
+tqdm            4.64.1
+pybedtools      0.9.0
+matplotlib      3.7.1
+seaborn         0.12.2
+datasketch      1.6.5
+edlib           1.3.9.post1
+scipy           1.11.1
+
+other tools used in this analysis:
+
+* **seqtk** available at https://github.com/lh3/seqtk. We used seqtk to call telomere-subtelomere junctions.
+* **fibertools** available at https://github.com/fiberseq/fibertools-rs. A CLI tool for creating and interacting with Fiber-seq BAM files. We use various fibertools outputs to extract sequence and chromatin features from single molecules.
+
