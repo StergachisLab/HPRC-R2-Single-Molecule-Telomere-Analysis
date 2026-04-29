@@ -33,7 +33,7 @@ Danilo Dubocanin**¹**, Mitchell R. Vollger**²**, Shane J Neph**³**, Maria Sar
 
 ### Dependencies
 
-This analysis is performed using relatively standard bioinformatics and data science packages.
+This analysis is performed using relatively standard bioinformatics and data science packages. These can all be installed with conda or mamba.
 
 python (>=3.11) dependencies:
 * numpy           1.24.4 
