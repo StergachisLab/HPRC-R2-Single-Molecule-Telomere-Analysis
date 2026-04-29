@@ -36,15 +36,15 @@ Danilo Dubocanin**¹**, Mitchell R. Vollger**²**, Shane J Neph**³**, Maria Sar
 This analysis is performed using relatively standard bioinformatics and data science packages.
 
 python (>=3.11) dependencies:
-numpy           1.24.4 
-pandas          1.5.3  
-tqdm            4.64.1 
-pybedtools      0.9.0 
-matplotlib      3.7.1 
-seaborn         0.12.2  
-datasketch      1.6.5 
-edlib           1.3.9.post1 
-scipy           1.11.1 
+numpy           1.24.4 \n
+pandas          1.5.3  \n
+tqdm            4.64.1 \n
+pybedtools      0.9.0 \n
+matplotlib      3.7.1 \n
+seaborn         0.12.2  \n
+datasketch      1.6.5 \n
+edlib           1.3.9.post1 \n 
+scipy           1.11.1 \n
 
 other tools used in this analysis:
 
