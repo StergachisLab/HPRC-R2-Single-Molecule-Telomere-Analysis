@@ -57,3 +57,5 @@ other tools used in this analysis:
 
 To run all analyses in this paper, you can download all processed files from our [interactive web directory](https://s3.kopah.uw.edu/dubocd/index.html). Then, you can download the jupyter notebook corresponding to your analysis of interest and replace hard-coded file names with the location of the downloaded file on your system.
 Alternatively, you can also download bam files from the [Human Pangenome raw sequencing data repository](https://data.humanpangenome.org/raw-sequencing-data), and process them as described in our methods section.
+
+None of the analyses should take more than a couple minutes up to an hour to run, with the exception of an all-vs-all end pairwise alignment which can take many hours depending on your compute resources.
